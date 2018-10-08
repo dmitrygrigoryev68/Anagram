@@ -9,4 +9,5 @@ foo.txt
 *.[oa]
 *.idea
 *.md
+*.iml
 out
